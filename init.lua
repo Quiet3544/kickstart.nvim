@@ -35,6 +35,7 @@ require('lazy').setup({
     end,
   },
 
-  require 'plugins.neotree'
-
+    require 'plugins.neotree',
+    require 'plugins.bufferline',
+    require 'plugins.lualine',
 })
