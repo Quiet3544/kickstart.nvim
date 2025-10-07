@@ -1,0 +1,11 @@
+cmake-tools.nvim - installed
+
+github support
+
+Gitui
+
+configure whic-keys
+
+check jdh config to see if theres anything you like
+
+overseer - accept input from cpp
